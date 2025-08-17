@@ -1,0 +1,7 @@
+opencv-python
+dlib
+scipy
+pyttsx3
+numpy
+imutils
+cmake==3.27.7 
